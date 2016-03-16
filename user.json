@@ -1,0 +1,11 @@
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"paddyurlich@gmail.com","name":"paddy","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{:email=>"paddyurlich@gmail.com", :name=>"paddy", :permissions=>{:accounts=>"read", :policies=>"write", :users=>"write"}}
